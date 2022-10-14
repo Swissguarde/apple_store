@@ -1,7 +1,7 @@
 # APPLE
 
-Apple is a redesign of the official apple website with e-commerce store functionality using cutting-edge technologies like NextJS, TypeScript, TailwindCSS, and Redux. Stripe's API is also implemented to manage payments and sanity as 
-as the content management system
+Apple is a redesign of the official apple website with e-commerce store functionality using cutting-edge technologies like NextJS, TypeScript, Next-Auth TailwindCSS, and Redux. Stripe's API is also implemented to manage payments and sanity as 
+as the content management system.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
